@@ -4,7 +4,8 @@
 
 ## 内容
 
-- [openclaw-weixin-skill.md](./openclaw-weixin-skill.md) — 完整部署文档
+- [openclaw-weixin-skill.md](./openclaw-weixin-skill.md) — OpenClaw 微信聊天伴侣完整部署文档
+- [myblog-deploy-skill.md](./myblog-deploy-skill.md) — 个人博客与 OpenClaw 服务器共存部署
 
 ## 适用环境
 
