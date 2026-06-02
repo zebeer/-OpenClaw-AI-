@@ -1,0 +1,29 @@
+# 密钥和凭证 —— 绝对不能提交
+*sk-*
+*api*key*
+*API*KEY*
+*.env*
+*secret*
+*credential*
+*openclaw.json*
+
+# 身份和记忆 —— 极度私人
+IDENTITY.md
+USER.md
+MEMORY.md
+SOUL.md
+memory/
+HEARTBEAT.md
+TOOLS.md
+AGENTS.md
+BOOTSTRAP.md
+
+# OpenClaw 运行时
+.openclaw/
+gateway.log
+*.log
+
+# 系统文件
+.DS_Store
+Thumbs.db
+desktop.ini
